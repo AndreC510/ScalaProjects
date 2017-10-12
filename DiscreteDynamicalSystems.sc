@@ -71,4 +71,5 @@ object DiscreteDynamicalSystems {
   nthRoot(9,2)                                    //> res6: Double = 3.0000000015508212
   nthRoot(4,2)                                    //> res7: Double = 2.0000000944796694
   nthRoot(27, 3)                                  //> res8: Double = 3.000000000001917
+  nthRoot(81, 2)
 }
