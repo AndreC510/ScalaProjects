@@ -1,0 +1,1 @@
+Hello all! This is where I track my growth in knowledge of Scala. Please feel free to browse.
